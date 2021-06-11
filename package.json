@@ -1,0 +1,24 @@
+{
+  "name": "ghost-dev-console",
+  "version": "0.0.2",
+  "description": "console'a mesaj yazdırma için kullanabilirsiniz.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "chalk": "^4.1.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/zMelihStrqfe/ghost-dev-console"
+  },
+  "keywords": [
+    "console",
+    "yaz",
+    "hata"
+  ]
+}
