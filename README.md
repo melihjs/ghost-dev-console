@@ -2,10 +2,24 @@
 
 ## Yüklemek için gereken bilgiler ve örnek kod:
 
-  - Örnek Kod:
+  - Örnek:
 
      * Proje: [Tıkla!](https://github.com/zMelihStrqfe/ghost-dev-proje)
-  
+     * Kod:
+     ```js
+      const cs = require('ghost-dev-console');
+
+      cs.mavi('ghost dev');
+      cs.yesil('ghost dev');
+      cs.sari('ghost dev');
+      cs.kirmizi('ghost dev');
+      cs.cyan('ghost dev');
+      cs.magenta('ghost dev');
+      cs.beyaz('ghost dev');
+      cs.gri('ghost dev');
+      cs.siyah('ghost dev');
+      cs.altcizili('ghost dev');
+  	  ```
   - Yükleme:
   
   ```js
