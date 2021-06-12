@@ -9,7 +9,6 @@
      ```js
       const cs = require('ghost-dev-console');
 
-      cs.mavi('ghost dev');
       cs.yesil('ghost dev');
       cs.sari('ghost dev');
       cs.kirmizi('ghost dev');
