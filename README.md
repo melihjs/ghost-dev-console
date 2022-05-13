@@ -27,5 +27,5 @@
   
 ## Sosyal Medya:
 
-  - Discord: [Tıkla!](https://discord.gg/yW4Mj4J8EA)
+  - Discord: [Tıkla!](https://discord.gg/ya9Gw8hBb2)
   - Site: [Tıkla!](https://ghostdev.tk)
